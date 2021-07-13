@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD. Yousuf Ali Rafi</h1>
 <h3 align="center">A Cyber Security Specialist. Also A Bug Huner. 🙋</h3>
 
-- 🔭 I’m currently working on **Bug Bounty**
+- 🔭 I’m currently working on **Bug Bounty.**
 
-- ⚡ I’m currently learning **C And PYTHON**
+- ⚡ I’m currently learning **C And PYTHON.**
 
 - 📫 How to reach me **ysf.root@gmail.com**
 
