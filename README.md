@@ -1,5 +1,5 @@
 - <h2>Hi 👋, I'm Rafi</h2>
-
+<p><em>Security Enthusist and Bugbounty Hunter.    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br><br>
 
 
 - 🔭 I’m currently working on **Bug Bounty.**
