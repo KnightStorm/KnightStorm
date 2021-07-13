@@ -1,7 +1,6 @@
   <h1>Hi there 👋, I'm Rafi.</h1>
 
 
-- Hi, I'm  **MD. Yousuf Ali Rafi**, Bug Hunter. 
 
 - 🔭 I’m currently working on **Bug Bounty.**
 
