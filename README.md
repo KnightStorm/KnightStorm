@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD. Yousuf Ali Rafi</h1>
-<h3 align="center">Bug Huner. 🙋</h3>
+<h3 align="center">Bug Huner</h3>
 
 - 🔭 I’m currently working on **Bug Bounty.**
 
