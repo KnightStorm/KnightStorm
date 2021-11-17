@@ -7,6 +7,6 @@
 Coming to the practical implementation, I love Coding and making YAML scripts to automate processes that take lots of time while pentesting Web Applications. On the way of doing that made me think to write blogs on the hunting Bugs so that I can share my experience with other enthusiasts.</p>
 
 <h3 align="left">Learning:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png" alt="c" width="40" height="40"/> </a> <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![gif_code](https://user-images.githubusercontent.com/72573954/125516367-5a76193c-0ca4-4269-bf28-22d95855515d.gif)
