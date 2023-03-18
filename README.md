@@ -16,10 +16,9 @@ Coming to the practical implementation, I love Coding and making YAML scripts to
 ### My profiles & Contacts
 - 🔰 [Hackerone](https://hackerone.com/yousuf_ali_rafi)
 - 🔰 [BugCrowd](https://bugcrowd.com/yousuf_ali_rafi)
+- 🔰 [Intigriti](https://app.intigriti.com/researcher/profile/yousuf_ali_rafi)
 - 🔰 [Linkedin](https://www.linkedin.com/in/yousufalirafi/) 
-- 🔰 [YouTube](https://youtube.com/)
 - 🔰 [Twitter](https://twitter.com/@yousuf_ali_rafi)
-- 🔰 [Medium](https://medium.com/)
 
 *************
 
