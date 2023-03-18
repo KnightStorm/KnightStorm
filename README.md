@@ -10,3 +10,22 @@ Coming to the practical implementation, I love Coding and making YAML scripts to
 <p align="left"></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="python" width="40" height="40"/> </a> </p>
 
 ![gif_code](https://user-images.githubusercontent.com/72573954/125516367-5a76193c-0ca4-4269-bf28-22d95855515d.gif)
+
+
+### My profiles & Contacts
+- 🔰 [Hackerone](https://hackerone.com/yousuf_ali_rafi)
+- 🔰 [BugCrowd](https://bugcrowd.com/yousuf_ali_rafi)
+- 🔰 [Linkedin](https://www.linkedin.com/in/yousufalirafi/) 
+- 🔰 [YouTube](https://youtube.com/)
+- 🔰 [Twitter](https://twitter.com/@yousuf_ali_rafi)
+- 🔰 [Medium](https://medium.com/)
+
+*************
+
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img src="https://github-readme-stats.vercel.app/api?username=rafisec&&show_icons=true&theme=radical"/>
+</a>
+</p>
+
+*************
