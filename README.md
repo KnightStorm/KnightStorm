@@ -13,7 +13,7 @@ Coming to the practical implementation, I love Coding and making YAML scripts to
 ### My profiles & Contacts
 - 🔰 [Hackerone](https://hackerone.com/yousuf_ali_rafi)
 - 🔰 [BugCrowd](https://bugcrowd.com/yousuf_ali_rafi)
-- 🔰 [Intigriti](https://app.intigriti.com/researcher/profile/yousuf_ali_rafi)
+- 🔰 [Intigriti](https://app.intigriti.com/profile/yousuf_ali_rafi)
  
 
 *************
