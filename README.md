@@ -5,6 +5,7 @@
  I am a Computer Engineer who is currently studying from International Standard University, who has a keen interest in Penetration Testing and who enjoy doing Bug bounties.
 
 Coming to the practical implementation, I love Coding and making YAML scripts to automate processes that take lots of time while pentesting Web Applications. On the way of doing that made me think to write blogs on the hunting Bugs so that I can share my experience with other enthusiasts.</p>
+ 
 
 *************
 
@@ -13,6 +14,7 @@ Coming to the practical implementation, I love Coding and making YAML scripts to
 - 🔰 [Hackerone](https://hackerone.com/yousuf_ali_rafi)
 - 🔰 [BugCrowd](https://bugcrowd.com/yousuf_ali_rafi)
 - 🔰 [Intigriti](https://app.intigriti.com/researcher/profile/yousuf_ali_rafi)
+ 
 
 *************
 
@@ -27,6 +29,7 @@ Coming to the practical implementation, I love Coding and making YAML scripts to
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KnightStorm&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightStorm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+ 
 ---
 [![](https://visitcount.itsvg.in/api?id=KnightStorm&icon=6&color=0)](https://visitcount.itsvg.in)
 
