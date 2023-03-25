@@ -1,4 +1,4 @@
-<h2>Hi, I'm Yousuf Ali Rafi</h2>
+<h1 align="center">Hi 👋, I'm Yousuf Ali Rafi</h1>
 <p><em>Security Enthusist and Bug bounty Hunter and H4cker.    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"><br><br>
 
 <p>
